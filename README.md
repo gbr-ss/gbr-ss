@@ -20,7 +20,6 @@
 ## 🔥 Atividade Recente
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gbr-ss&theme=dark" alt="GitHub Streak" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gbr-ss&theme=github-compact" alt="GitHub Activity Graph" />
 </div>
 
