@@ -30,9 +30,9 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://logospng.org/wp-content/uploads/html-5.png" width="40" />
-  <img src="https://gustavoguanabara.github.io/html-css/exercicios/modulo-01/ex003/imagens/logo-css.png" width="40" />
-  <img src="https://pbs.twimg.com/profile_images/1609033758497202176/7QBpkbA5_400x400.jpg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
 </p>
 
