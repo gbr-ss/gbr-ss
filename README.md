@@ -1,5 +1,5 @@
 <!-- Banner (adicione um banner personalizado se quiser) -->
-<img src="[https://i.imgur.com/your-banner-link.png](https://img.noblechairs.com/lp/er/elden_ring_banner.jpg)" alt="banner" width="100%" />
+<img src="https://i.pinimg.com/736x/ef/45/26/ef452633b714baca794014f0183f1571.jpg" />
 
 <h1 align="center">Olá! Eu sou o Gbr 👋</h1>
 <h2 align="center">Bem-vindo ao meu perfil no GitHub</h2>
