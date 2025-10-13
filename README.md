@@ -1,6 +1,6 @@
 <!-- Banner centralizado com altura menor -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/ef/45/26/ef452633b714baca794014f0183f1571.jpg" alt="Banner"   style="max-height: 20px;" />
+  <img src="https://i.pinimg.com/736x/ef/45/26/ef452633b714baca794014f0183f1571.jpg" alt="Banner" width="400"/>
 </p>
 
 <h1 align="center">Olá! Eu sou o Gbr 👋</h1>
