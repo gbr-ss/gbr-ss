@@ -43,7 +43,7 @@
 ## 🚀 Sobre mim
 
 - 🔭 Atualmente estou Estudando em: projetos do senai
-- 🌱 Estudando: Python, SQL, HTMl é CSS
+- 🌱 Estudando: Python, SQL, HTML ,Javascript é CSS
 
 ---
 
