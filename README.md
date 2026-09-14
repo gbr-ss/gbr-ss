@@ -2,7 +2,9 @@
   <img src="https://i.pinimg.com/736x/ef/45/26/ef452633b714baca794014f0183f1571.jpg" alt="Banner" width="400"/>
 </p>
 
-<h1 align="center">Olá, eu sou o Gbr 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1800&pause=1400&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Gbr+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
 
 <p align="center">
   Bem-vindo ao meu perfil no GitHub
